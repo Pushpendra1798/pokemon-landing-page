@@ -64,15 +64,15 @@ body {
     border-radius: 20px;
 }
 img {
-    height: 50px;
-    width: 130px;
+    height: 70px;
+    width: 170px;
 }
 
 .pikachu {
     position: absolute;
-    width: 460px;
-    height: 450px;
-    right: 152px;
+    width: 560px;
+    height: 600px;
+    right: 260px;
     top: 65px;
 }
 h4{
